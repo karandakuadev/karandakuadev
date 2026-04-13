@@ -4,11 +4,6 @@
   ║     Crafted with precision. Every pixel intentional.          ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
-
-
-<img width="2000" height="600" alt="White Minimalist Profile LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/6f8b7895-72d2-4464-87de-89343ecf910c" />
-
-
 <div align="center">
 
 <!-- Animated header banner -->
